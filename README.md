@@ -1,15 +1,15 @@
-# HOST.pdf static CDN page
+# HOST.pdf CDN hosting
 
-Static wrapper for `HOST.pdf`, published for CDN delivery through jsDelivr.
+Static wrapper source plus `HOST.pdf`, published from a public GitHub origin.
 
-Primary CDN URL:
-
-```text
-https://cdn.jsdelivr.net/gh/rishistyping/host-js-cdn-static-site@master/index.html
-```
-
-Direct PDF URL:
+Verified jsDelivr PDF URL:
 
 ```text
 https://cdn.jsdelivr.net/gh/rishistyping/host-js-cdn-static-site@master/HOST.pdf
+```
+
+GitHub Pages site, if Pages deployment is healthy:
+
+```text
+https://rishistyping.github.io/host-js-cdn-static-site/
 ```
